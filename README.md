@@ -126,7 +126,7 @@ The Data revealed that the three most profitable regions are **Central Region, N
 
 ![Sheet 12](https://user-images.githubusercontent.com/105462826/173225720-ad2d553e-fe83-4d76-9878-3045a4ea224b.png)
 
-### All the data can be Visualized in the Dashboard below:
+### Below is a Dashboard showing an overview of the data:
 
 ![Dashboard 1](https://user-images.githubusercontent.com/105462826/173226024-0a4dd8dd-2fe8-4f26-909d-b80f0ed371c0.png)
 
